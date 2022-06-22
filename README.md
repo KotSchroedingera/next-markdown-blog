@@ -1,7 +1,7 @@
 # Простой блог на React/Next.js
 
 Позволяет просматривать и удобно администрировать посты.  
-Приложение: https://vercel.com/kotschroedingera/next-markdown-blog
+Приложение: https://next-markdown-blog-git-main-kotschroedingera.vercel.app/
 
 ### Функционал
 - добавление и работа с постами в формате .md
